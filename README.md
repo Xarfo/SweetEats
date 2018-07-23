@@ -1,7 +1,7 @@
 # SweetEats
 Mark up work for a prewriitten code.
 
-<!-- 
+
 
 Step 1: Fork this pen so it's yours.
 
@@ -22,4 +22,3 @@ Don't worry about CSS here, The goal is to markup the page in a semantic way.
 
 Step 3: Once you're done marking the content up. Let your project manager know and send them a link to your codepen.
 
--->
